@@ -1,0 +1,1 @@
+@reboot /path1/path2/libvirt_oom_adj.sh
